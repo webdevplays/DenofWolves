@@ -17024,7 +17024,7 @@ Sentry.init({...});
           x = (0, a.useMemo)(() => {
             switch (r) {
               case i.PrivacyPolicy:
-                return p("pp_window_title", { fallback: "Privacy Policys1" });
+                return p("pp_window_title", { fallback: "Privacy Policy" });
               case i.CookiePolicy:
                 return p("cp_window_title", { fallback: "Cookie Policy" });
               case i.TermsOfService:
