@@ -1319,8 +1319,8 @@
             switch (y) {
               case 1:
                 return {
-                  id: "trailer",
-                  content: t("home_scroll_hint_trailer"),
+                  id: "",
+                  content: t(""),
                   target: W.current,
                 };
               case 2:
