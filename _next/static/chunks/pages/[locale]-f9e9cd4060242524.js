@@ -1217,7 +1217,7 @@
                   (0, i.jsx)(eZ.Z, { show: !!r, onClose: h, variant: r }),
                   (0, i.jsx)("span", {
                     className: eE().copyRight,
-                    children: n("home_footer_copyright"),
+                    children: n(""),
                   }),
                   (0, i.jsxs)("div", {
                     className: eE().links,
