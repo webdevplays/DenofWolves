@@ -1217,7 +1217,7 @@
                   (0, i.jsx)(eZ.Z, { show: !!r, onClose: h, variant: r }),
                   (0, i.jsx)("span", {
                     className: eE().copyRight,
-                    children: n(""),
+                    children: n("home_footer_copyright"),
                   }),
                   (0, i.jsxs)("div", {
                     className: eE().links,
@@ -1319,8 +1319,8 @@
             switch (y) {
               case 1:
                 return {
-                  id: "",
-                  content: t(""),
+                  id: "trailer",
+                  content: t("home_scroll_hint_trailer"),
                   target: W.current,
                 };
               case 2:

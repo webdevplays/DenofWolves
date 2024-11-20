@@ -1,1 +1,362 @@
-.ContentWrapper_contentWrapper__EEHX_{position:relative;width:calc(100% - var(--page-margin)*2);max-width:var(--content-max-width);margin:0 auto}.ContentWrapper_contentWrapper__inner__iWrOc{width:100%}.ContentWrapper_contentWrapper__EEHX_[data-is-fullscreen=true]{padding:0;max-width:none}.DistrictCard_districtCard__Jlxs3{background-color:var(--color-gray);border:1px solid var(--color-black);width:226px;height:379px;position:relative;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:8px;padding:8px}.DistrictCard_districtCard__Jlxs3 button{transition:none}.DistrictCard_districtCard__Jlxs3:before{content:"";position:absolute;background-color:var(--color-gray);width:calc(100% + 4px);height:calc(100% + 4px);top:-2px;left:-2px;z-index:-1;outline:1px solid var(--color-black)}.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]{cursor:pointer}@media(hover:hover){.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover,.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover div:first-child,.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover:before{background-color:var(--color-purple)}.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover button{background:var(--_bg-color-hover)}.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover button p{color:var(--color-white)}.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:active button{background:url(/images/pattern.png)}.DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:active button p{color:var(--color-white)}}.DistrictCard_districtCard__Jlxs3[data-status=OFFLINE]{cursor:not-allowed}@media(hover:hover){.DistrictCard_districtCard__Jlxs3[data-status=OFFLINE]:hover div:first-child{background-color:var(--color-gray)}.DistrictCard_districtCard__Jlxs3[data-status=OFFLINE]:active>div>div:first-child{background-color:var(--landing-red)}}@media(max-width:63.99em){.DistrictCard_districtCard__Jlxs3{width:calc(100% - 18px);height:194px;flex-direction:row}}.DistrictCard_districtCard__header__UtW4t{display:flex;width:100%;height:250px;border-bottom:1px solid var(--_color)}@media(max-width:47.99em){.DistrictCard_districtCard__header__UtW4t{min-height:100px}}.DistrictCard_districtCard__image__TXZZq{display:flex;justify-content:center;align-items:center}@media(max-width:63.99em){.DistrictCard_districtCard__image__TXZZq{overflow:hidden;width:57%;height:192px}}.DistrictCard_districtCard__image__TXZZq img{width:224px;height:224px;image-rendering:pixelated;-webkit-user-drag:none}.DistrictCard_districtCard__info__lS932{height:40%;width:calc(100% - 16px);position:relative;color:var(--color-black);font-family:ABCDiatypeMono-Regular;font-size:12px;font-style:normal;font-weight:400;line-height:14px;-webkit-font-smoothing:antialiased;letter-spacing:.1px;margin:0 5px;padding:13px 5px 0}@media(max-width:63.99em){.DistrictCard_districtCard__info__lS932{height:calc(100% - 17px);width:25%;flex:1 1;margin:0}}.DistrictCard_districtCard__status__h_DBO{position:absolute;top:-4px;left:4.5px;color:var(--color-black);font-family:ABCDiatypeMono-Regular;font-size:12px;font-style:normal;font-weight:400;line-height:14px;-webkit-font-smoothing:antialiased;letter-spacing:.1px;background-color:var(--color-gray)}.DistrictCard_districtCard__description__rPap3{margin:.5rem 0;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical}@media(max-width:63.99em){.DistrictCard_districtCard__description__rPap3{-webkit-line-clamp:6}}.DistrictCard_districtCard__button__MOrRA{position:absolute!important;bottom:4px}.DistrictCard_districtCard__scanningBar__wVju2{width:calc(100% - 10px);overflow:hidden}.DetailsContentWrapper_detailsContentWrapper__vXfg6{position:relative;border:1px solid var(--color-black)}.DetailsContentWrapper_detailsContentWrapper__header__mOccI{position:absolute;top:-4px;left:4.5px;color:var(--color-black);font-family:ABCDiatypeMono-Regular;font-size:12px;font-style:normal;font-weight:400;line-height:14px;-webkit-font-smoothing:antialiased;letter-spacing:.1px;background-color:var(--color-gray);white-space:nowrap}.DetailsContentWrapper_detailsContentWrapper__header__mOccI:hover{background-color:var(--color-purple)}.DetailsContentWrapper_detailsContentWrapper__header__mOccI[data-center=true]{left:50%;transform:translateX(-50%)}@layer flickerAnimationWrapper{.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s{position:relative;width:-moz-fit-content;width:fit-content;height:-moz-fit-content;height:fit-content}}.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s{--_anim-duration-in:var(--anim-duration-in,0.25s);--_anim-duration-out:var(--anim-duration-out,0.25s);opacity:0}.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s[data-anim-state=enter]{opacity:1}.FlickerAnimationWrapper_flickerAnimationWrapper__bg__VCPS2{content:"";position:absolute;width:calc(100% + 4px);height:calc(100% + 4px);top:-2px;left:-2px;background:url(/images/pattern.png);pointer-events:none;z-index:-1}.FlickerAnimationWrapper_flickerAnimationWrapper__content__wsLPC{opacity:0}.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s[data-anim-state=enter] .FlickerAnimationWrapper_flickerAnimationWrapper__content__wsLPC,.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s[data-anim-state=exit] .FlickerAnimationWrapper_flickerAnimationWrapper__content__wsLPC[data-anim-state=exit]{opacity:1;animation:FlickerAnimationWrapper_reveal__uOdCU calc(var(--_anim-duration-in)*.5) steps(1) forwards}@keyframes FlickerAnimationWrapper_reveal__uOdCU{0%{opacity:0}to{opacity:1}}@font-face{font-family:ABCDiatypeMono-Regular;src:url(/fonts/ABCDiatypeMono-Regular.woff2),url(/fonts/ABCDiatypeMono-Regular.woff);font-style:normal;font-weight:400;font-display:swap}@font-face{font-family:BlockZone;src:url(/fonts/BlockZone.ttf);font-style:normal;font-weight:400;font-display:swap}@font-face{font-family:Disket Mono;src:url(/fonts/Disket-Mono-Regular.woff2) format("woff2"),url(/fonts/Disket-Mono-Regular.woff) format("woff");font-weight:400;font-style:normal;font-stretch:normal;font-display:swap}@font-face{font-family:Disket Mono;src:url(/fonts/Disket-Mono-Bold.woff2) format("woff2"),url(/fonts/Disket-Mono-Bold.woff) format("woff");font-weight:700;font-style:normal;font-stretch:normal;font-display:swap}.DistrictSelectorPage_districtSelectorPage__QNAs_{margin-top:calc(var(--page-margin));margin-bottom:var(--page-margin)}@media(max-width:47.99em){.DistrictSelectorPage_districtSelectorPage__QNAs_{align-items:flex-start}}.DistrictSelectorPage_districtSelectorPage__grid__gLYNf{display:grid;grid-template-columns:repeat(auto-fill,236px);grid-gap:1.75rem;justify-content:center;align-items:center;margin:45px auto auto;padding-bottom:45px;position:relative;z-index:1}@media(max-width:63.99em){.DistrictSelectorPage_districtSelectorPage__grid__gLYNf{grid-template-columns:repeat(auto-fill,352px);grid-gap:.75rem}}@media screen and (min-width:2300px){.DistrictSelectorPage_districtSelectorPage__grid__gLYNf{max-width:2300px}}.DistrictSelectorPage_districtSelectorPage__districtCardFlickerWrapperContent__HP_O0,.DistrictSelectorPage_districtSelectorPage__districtCardFlickerWrapper__Add3k{display:flex;width:100%}
+.ContentWrapper_contentWrapper__EEHX_ {
+    position: relative;
+    width: calc(100% - var(--page-margin)*2);
+    max-width: var(--content-max-width);
+    margin: 0 auto
+}
+
+.ContentWrapper_contentWrapper__inner__iWrOc {
+    width: 100%
+}
+
+.ContentWrapper_contentWrapper__EEHX_[data-is-fullscreen=true] {
+    padding: 0;
+    max-width: none
+}
+
+.DistrictCard_districtCard__Jlxs3 {
+    background-color: var(--color-gray);
+    border: 1px solid var(--color-black);
+    width: 226px;
+    height: 379px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding: 8px;
+    border: 2px solid #b331e9;
+    border-right: 2px solid #31d0e9; 
+    border-bottom: 2px solid #315be9;
+}
+
+.DistrictCard_districtCard__Jlxs3 button {
+    transition: none;
+    background: #64fff2;
+}
+
+.DistrictCard_districtCard__Jlxs3:before {
+    content: "";
+    position: absolute;
+    background-color: var(--color-gray);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    top: -2px;
+    left: -2px;
+    z-index: -1;
+    outline: 1px solid var(--color-black)
+}
+
+.DistrictCard_districtCard__Jlxs3[data-status=ONLINE] {
+    cursor: pointer
+}
+
+@media(hover:hover) {
+
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover,
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover div:first-child,
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover:before {
+        background-color: var(--color-purple)
+    }
+
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover button {
+        background: var(--_bg-color-hover)
+    }
+
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:hover button p {
+        color: var(--color-white)
+    }
+
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:active button {
+        background: url(/images/pattern.png)
+    }
+
+    .DistrictCard_districtCard__Jlxs3[data-status=ONLINE]:active button p {
+        color: var(--color-white)
+    }
+}
+
+.DistrictCard_districtCard__Jlxs3[data-status=OFFLINE] {
+    cursor: not-allowed
+}
+
+@media(hover:hover) {
+    .DistrictCard_districtCard__Jlxs3[data-status=OFFLINE]:hover div:first-child {
+        background-color: var(--color-gray)
+    }
+
+    .DistrictCard_districtCard__Jlxs3[data-status=OFFLINE]:active>div>div:first-child {
+        background-color: var(--landing-red)
+    }
+}
+
+@media(max-width:63.99em) {
+    .DistrictCard_districtCard__Jlxs3 {
+        width: calc(100% - 18px);
+        height: 194px;
+        flex-direction: row
+    }
+}
+
+.DistrictCard_districtCard__header__UtW4t {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    border-bottom: 1px solid var(--_color)
+}
+
+@media(max-width:47.99em) {
+    .DistrictCard_districtCard__header__UtW4t {
+        min-height: 100px
+    }
+}
+
+.DistrictCard_districtCard__image__TXZZq {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+@media(max-width:63.99em) {
+    .DistrictCard_districtCard__image__TXZZq {
+        overflow: hidden;
+        width: 57%;
+        height: 192px
+    }
+}
+
+.DistrictCard_districtCard__image__TXZZq img {
+    width: 224px;
+    height: 224px;
+    image-rendering: pixelated;
+    -webkit-user-drag: none
+}
+
+.DistrictCard_districtCard__info__lS932 {
+    height: 40%;
+    width: calc(100% - 16px);
+    position: relative;
+    color: var(--color-black);
+    font-family: ABCDiatypeMono-Regular;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: .1px;
+    margin: 0 5px;
+    padding: 13px 5px 0
+}
+
+@media(max-width:63.99em) {
+    .DistrictCard_districtCard__info__lS932 {
+        height: calc(100% - 17px);
+        width: 25%;
+        flex: 1 1;
+        margin: 0
+    }
+}
+
+.DistrictCard_districtCard__status__h_DBO {
+    position: absolute;
+    top: -4px;
+    left: 4.5px;
+    color: var(--color-black);
+    font-family: ABCDiatypeMono-Regular;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: .1px;
+    background-color: var(--color-gray)
+}
+
+.DistrictCard_districtCard__description__rPap3 {
+    margin: .5rem 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical
+}
+
+@media(max-width:63.99em) {
+    .DistrictCard_districtCard__description__rPap3 {
+        -webkit-line-clamp: 6
+    }
+}
+
+.DistrictCard_districtCard__button__MOrRA {
+    position: absolute !important;
+    bottom: 4px
+}
+
+.DistrictCard_districtCard__scanningBar__wVju2 {
+    width: calc(100% - 10px);
+    overflow: hidden
+}
+
+.DetailsContentWrapper_detailsContentWrapper__vXfg6 {
+    position: relative;
+    border: 1px solid var(--color-black);
+    border: 2px solid #b331e9;
+    border-right: 2px solid #31d0e9; 
+    border-bottom: 2px solid #315be9;
+    background: #000;
+}
+
+.DetailsContentWrapper_detailsContentWrapper__header__mOccI {
+    position: absolute;
+    top: -4px;
+    left: 4.5px;
+    color: var(--color-black);
+    font-family: ABCDiatypeMono-Regular;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: .1px;
+    background-color: var(--color-gray);
+    white-space: nowrap;
+    background: #e0e0e0;
+}
+
+.DetailsContentWrapper_detailsContentWrapper__header__mOccI:hover {
+    background-color: var(--color-purple)
+}
+
+.DetailsContentWrapper_detailsContentWrapper__header__mOccI[data-center=true] {
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+@layer flickerAnimationWrapper {
+    .FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s {
+        position: relative;
+        width: -moz-fit-content;
+        width: fit-content;
+        height: -moz-fit-content;
+        height: fit-content
+    }
+}
+
+.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s {
+    --_anim-duration-in: var(--anim-duration-in, 0.25s);
+    --_anim-duration-out: var(--anim-duration-out, 0.25s);
+    opacity: 0
+}
+
+.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s[data-anim-state=enter] {
+    opacity: 1
+}
+
+.FlickerAnimationWrapper_flickerAnimationWrapper__bg__VCPS2 {
+    content: "";
+    position: absolute;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    top: -2px;
+    left: -2px;
+    background: url(/images/pattern.png);
+    pointer-events: none;
+    z-index: -1
+}
+
+.FlickerAnimationWrapper_flickerAnimationWrapper__content__wsLPC {
+    opacity: 0
+}
+
+.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s[data-anim-state=enter] .FlickerAnimationWrapper_flickerAnimationWrapper__content__wsLPC,
+.FlickerAnimationWrapper_flickerAnimationWrapper__r_g9s[data-anim-state=exit] .FlickerAnimationWrapper_flickerAnimationWrapper__content__wsLPC[data-anim-state=exit] {
+    opacity: 1;
+    animation: FlickerAnimationWrapper_reveal__uOdCU calc(var(--_anim-duration-in)*.5) steps(1) forwards
+}
+
+@keyframes FlickerAnimationWrapper_reveal__uOdCU {
+    0% {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@font-face {
+    font-family: ABCDiatypeMono-Regular;
+    src: url(/fonts/ABCDiatypeMono-Regular.woff2), url(/fonts/ABCDiatypeMono-Regular.woff);
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap
+}
+
+@font-face {
+    font-family: BlockZone;
+    src: url(/fonts/BlockZone.ttf);
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Disket Mono;
+    src: url(/fonts/Disket-Mono-Regular.woff2) format("woff2"), url(/fonts/Disket-Mono-Regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Disket Mono;
+    src: url(/fonts/Disket-Mono-Bold.woff2) format("woff2"), url(/fonts/Disket-Mono-Bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap
+}
+
+.DistrictSelectorPage_districtSelectorPage__QNAs_ {
+    margin-top: calc(var(--page-margin));
+    margin-bottom: var(--page-margin)
+}
+
+@media(max-width:47.99em) {
+    .DistrictSelectorPage_districtSelectorPage__QNAs_ {
+        align-items: flex-start
+    }
+}
+
+.DistrictSelectorPage_districtSelectorPage__grid__gLYNf {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 236px);
+    grid-gap: 1.75rem;
+    justify-content: center;
+    align-items: center;
+    margin: 45px auto auto;
+    padding-bottom: 45px;
+    position: relative;
+    z-index: 1
+}
+
+@media(max-width:63.99em) {
+    .DistrictSelectorPage_districtSelectorPage__grid__gLYNf {
+        grid-template-columns: repeat(auto-fill, 352px);
+        grid-gap: .75rem
+    }
+}
+
+@media screen and (min-width:2300px) {
+    .DistrictSelectorPage_districtSelectorPage__grid__gLYNf {
+        max-width: 2300px
+    }
+}
+
+.DistrictSelectorPage_districtSelectorPage__districtCardFlickerWrapperContent__HP_O0,
+.DistrictSelectorPage_districtSelectorPage__districtCardFlickerWrapper__Add3k {
+    display: flex;
+    width: 100%
+}
