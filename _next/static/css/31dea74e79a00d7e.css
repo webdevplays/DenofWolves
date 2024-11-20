@@ -1343,7 +1343,11 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 1px solid var(--color-black)
+    border-top: 1px solid var(--color-black);
+    border: 2px solid #ff5cff;
+    border-right: 2px solid #31d0e9;
+    border-bottom: 2px solid #315be9;
+    background-color: #0000008c !important;
 }
 
 .Dashboard_dashboard__titleBarIconContainer__RAcmQ {
