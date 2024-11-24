@@ -23413,7 +23413,7 @@ Error:`,
             (this.requiredForParty = 3),
             (this.startedParty = !1),
             (this.party = new g.MapSchema()),
-            (this.botPrefix = "XERO"),
+            (this.botPrefix = "Øptik"),
             (this.idleCutOff = 2e4);
         }
       }
