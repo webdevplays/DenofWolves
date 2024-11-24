@@ -22911,12 +22911,12 @@ Error:`,
               (0, eb.rY)(t, e, o.language);
             }, [o.language, a.asPath]);
           let m = {
-            title: u("meta_title", { fallback: "Den of Wolves (DoW)" }),
+            title: u("meta_title", { fallback: "Optik Districts" }),
             description: u("meta_description", {
-              fallback: "Den of Wolves (DoW)",
+              fallback: "Optik Districts",
             }),
             image: "".concat(f.site_url, "/og_image.jpg"),
-            site_name: u("meta_site_name", { fallback: "Den of Wolves (DoW)" }),
+            site_name: u("meta_site_name", { fallback: "Optik Districts" }),
           };
           return (0,
           l.jsxs)(l.Fragment, { children: [(0, l.jsxs)(nP(), { children: [(0, l.jsx)("title", { children: m.title }), (0, l.jsx)("meta", { name: "description", content: m.description }), (0, l.jsx)("meta", { name: "og:title", content: m.title }), (0, l.jsx)("meta", { name: "og:type", content: "site" }), (0, l.jsx)("meta", { name: "og:image", content: m.image }), (0, l.jsx)("meta", { name: "og:site_name", content: m.site_name }), (0, l.jsx)("meta", { name: "og:description", content: m.description }), (0, l.jsx)("meta", { name: "twitter:card", content: "summary" }), (0, l.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" }), (0, l.jsx)("link", { rel: "apple-touch-icon", href: "/favicons/experience/apple-touch-icon.png" }), (0, l.jsx)("link", { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicons/experience/favicon-32x32.png" }), (0, l.jsx)("link", { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicons/experience/favicon-16x16.png" }), (0, l.jsx)("link", { rel: "icon", href: "/favicons/experience/favicon.ico" }), (0, l.jsx)("link", { rel: "manifest", href: "/favicons/experience/site.webmanifest" }), (0, l.jsx)("meta", { name: "google-site-verification", content: "757IgY_kW3yUwjsFmJL_FmSgHlUFUDSxgu3com25Pa8" }), (0, l.jsx)("meta", { name: "version", content: f.version })] }), (0, l.jsx)(nE, { ...n.initialAppStoreState, children: (0, l.jsxs)(nS, { ...n, children: [(0, l.jsx)(t, { ...n }), r && (0, l.jsx)(eC.R, { title: "Preview mode", theme: eC.$.PurpleOnPurple, style: { position: "fixed", bottom: "5%", left: "50%", transform: "translateX(-50%)", zIndex: 9999 }, children: (0, l.jsxs)("div", { style: { justifyContent: "center", alignItems: "center", display: "flex", flexDirection: "column", gap: "1rem", margin: "1rem" }, children: [(0, l.jsx)("h1", { children: "You are in preview mode" }), (0, l.jsx)(c(), { href: "/api/exit-preview", legacyBehavior: !0, children: (0, l.jsx)(nC.z, { children: "Exit preview" }) })] }) })] }) })] });
